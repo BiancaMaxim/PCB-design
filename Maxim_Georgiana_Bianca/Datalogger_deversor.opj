@@ -1,0 +1,237 @@
+(ExpressProject "Datalogger_deversor"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File "D:\PF_Orcad\Capture\LIBRARY\Amplifier.olb"
+        (Type "Schematic Library"))
+      (File "D:\PF_Orcad\Capture\LIBRARY\Arithmetic.olb"
+        (Type "Schematic Library"))
+      (File "D:\PF_Orcad\Capture\LIBRARY\ATOD.OLB"
+        (Type "Schematic Library"))
+      (File "D:\PF_Orcad\Capture\LIBRARY\BusDriverTransceiver.olb"
+        (Type "Schematic Library"))
+      (File "D:\PF_Orcad\Capture\LIBRARY\CAPSYM.OLB"
+        (Type "Schematic Library"))
+      (File "D:\PF_Orcad\Capture\LIBRARY\Connector.olb"
+        (Type "Schematic Library"))
+      (File "D:\PF_Orcad\Capture\LIBRARY\Counter.olb"
+        (Type "Schematic Library"))
+      (File "D:\PF_Orcad\Capture\LIBRARY\Discrete.olb"
+        (Type "Schematic Library"))
+      (File "D:\PF_Orcad\Capture\LIBRARY\DRAM.OLB"
+        (Type "Schematic Library"))
+      (File "D:\PF_Orcad\Capture\LIBRARY\ElectroMechanical.olb"
+        (Type "Schematic Library"))
+      (File "D:\PF_Orcad\Capture\LIBRARY\FIFO.OLB"
+        (Type "Schematic Library"))
+      (File "D:\PF_Orcad\Capture\LIBRARY\Filter.olb"
+        (Type "Schematic Library"))
+      (File "D:\PF_Orcad\Capture\LIBRARY\FPGA.OLB"
+        (Type "Schematic Library"))
+      (File "D:\PF_Orcad\Capture\LIBRARY\Gate.olb"
+        (Type "Schematic Library"))
+      (File "D:\PF_Orcad\Capture\LIBRARY\Latch.olb"
+        (Type "Schematic Library"))
+      (File "D:\PF_Orcad\Capture\LIBRARY\LineDriverReceiver.olb"
+        (Type "Schematic Library"))
+      (File "D:\PF_Orcad\Capture\LIBRARY\Mechanical.olb"
+        (Type "Schematic Library"))
+      (File "D:\PF_Orcad\Capture\LIBRARY\MicroController.olb"
+        (Type "Schematic Library"))
+      (File "D:\PF_Orcad\Capture\LIBRARY\MicroProcessor.olb"
+        (Type "Schematic Library"))
+      (File "D:\PF_Orcad\Capture\LIBRARY\Misc.olb"
+        (Type "Schematic Library"))
+      (File "D:\PF_Orcad\Capture\LIBRARY\Misc2.olb"
+        (Type "Schematic Library"))
+      (File "D:\PF_Orcad\Capture\LIBRARY\Misc3.olb"
+        (Type "Schematic Library"))
+      (File "D:\PF_Orcad\Capture\LIBRARY\MiscLinear.olb"
+        (Type "Schematic Library"))
+      (File "D:\PF_Orcad\Capture\LIBRARY\MiscMemory.olb"
+        (Type "Schematic Library"))
+      (File "D:\PF_Orcad\Capture\LIBRARY\MiscPower.olb"
+        (Type "Schematic Library"))
+      (File "D:\PF_Orcad\Capture\LIBRARY\MuxDecoder.olb"
+        (Type "Schematic Library"))
+      (File "D:\PF_Orcad\Capture\LIBRARY\OPAmp.olb"
+        (Type "Schematic Library"))
+      (File "D:\PF_Orcad\Capture\LIBRARY\PassiveFilter.olb"
+        (Type "Schematic Library"))
+      (File "D:\PF_Orcad\Capture\LIBRARY\PLD.OLB"
+        (Type "Schematic Library"))
+      (File "D:\PF_Orcad\Capture\LIBRARY\PROM.OLB"
+        (Type "Schematic Library"))
+      (File "D:\PF_Orcad\Capture\LIBRARY\Regulator.olb"
+        (Type "Schematic Library"))
+      (File "D:\PF_Orcad\Capture\LIBRARY\ShiftRegister.olb"
+        (Type "Schematic Library"))
+      (File "D:\PF_Orcad\Capture\LIBRARY\SRAM.OLB"
+        (Type "Schematic Library"))
+      (File "D:\PF_Orcad\Capture\LIBRARY\Transistor.olb"
+        (Type "Schematic Library"))
+      (File ".\bianca.olb"
+        (Type "Schematic Library")))
+    (NoModify)
+    (File ".\datalogger_deversor.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Mode "1")
+    (ANNOTATE_Action "0")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "FALSE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}")
+    (BOM_Scope "0")
+    (BOM_Mode "0")
+    (BOM_Report_File
+       "D:\STUDENT\TME\2131\MAXIM_GEORGIANA_BIANCA\DATALOGGER_DEVERSOR.BOM")
+    (BOM_Merge_Include "FALSE")
+    (BOM_Property_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_Header "Item\tQuantity\tReference\tPart")
+    (BOM_Include_File
+       "D:\STUDENT\TME\2131\MAXIM_GEORGIANA_BIANCA\DATALOGGER_DEVERSOR.INC")
+    (BOM_Include_File_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_One_Part_Per_Line "TRUE")
+    (BOM_View_Output "TRUE")
+    (CrossRef_Scope "0")
+    (Crossref__Mode "0")
+    (CrossRef_Sorting "0")
+    (CrossRef_Destination_File
+       "D:\STUDENT\TME\2131\MAXIM_GEORGIANA_BIANCA\DATALOGGER_DEVERSOR.XRF")
+    (CrossRef_XY "TRUE")
+    (CrossRef_Unused "FALSE")
+    (XRF_View_Output "TRUE")
+    (DRC_Scope "0")
+    (DRC_Action "0")
+    (DRC_Create_Warnings "TRUE")
+    (DRC_Check_Ports "TRUE")
+    (DRC_Check_Off-Page_Connectors "TRUE")
+    (DRC_Identical_References "TRUE")
+    (DRC_Type_Mismatch "TRUE")
+    (DRC_Report_Ports_and_Off-page_Connectors "TRUE")
+    (DRC_SDT_Compatibility "FALSE")
+    (DRC_Report_Off-grid_Objects "TRUE")
+    (DRC_Check_Unconnected_Nets "TRUE")
+    (DRC_Report_Netnames "TRUE")
+    (DRC_View_Output "TRUE")
+    (DRC_Report_File
+       "D:\STUDENT\TME\2131\MAXIM_GEORGIANA_BIANCA\DATALOGGER_DEVERSOR.DRC")
+    (Netlist_TAB "5")
+    (LAYOUT_Netlist_File "DATALOGGER_DEVERSOR.MNL")
+    (LAYOUT_PCB_Footprint "{PCB Footprint}")
+    (TRUE)
+    (LAYOUT_Units "0"))
+  (Folder "Outputs"
+    (File ".\datalogger_deversor.bom"
+      (Type "Report"))
+    (File ".\datalogger_deversor.xrf"
+      (Type "Report"))
+    (File ".\datalogger_deversor.drc"
+      (Type "Report"))
+    (File ".\datalogger_deversor.mnl"
+      (Type "LAYOUT Netlist File")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (GND_SIGNAL
+      (LibraryName "D:\PF_ORCAD\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    ("GND_FIELD SIGNAL"
+      (LibraryName "D:\PF_ORCAD\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    ("CAP NP"
+      (FullPartName "CAP NP.Normal")
+      (LibraryName "D:\PF_ORCAD\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (INDUCTOR
+      (FullPartName "INDUCTOR.Normal")
+      (LibraryName "D:\PF_ORCAD\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName "D:\PF_ORCAD\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (CRYSTAL
+      (FullPartName "CRYSTAL.Normal")
+      (LibraryName "D:\PF_ORCAD\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (AD7705
+      (FullPartName "AD7705.Normal")
+      (LibraryName "D:\STUDENT\TME\2131\MAXIM_GEORGIANA_BIANCA\BIANCA.OLB")
+      (DeviceIndex "0"))
+    (CON4
+      (FullPartName "CON4.Normal")
+      (LibraryName "D:\PF_ORCAD\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (LED
+      (FullPartName "LED.Normal")
+      (LibraryName "D:\PF_ORCAD\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName "D:\PF_ORCAD\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (LM78L05A/TO39
+      (FullPartName "LM78L05A/TO39.Normal")
+      (LibraryName "D:\PF_ORCAD\CAPTURE\LIBRARY\REGULATOR.OLB")
+      (DeviceIndex "0"))
+    (C
+      (FullPartName "C.Normal")
+      (LibraryName "D:\PF_ORCAD\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (CON2
+      (FullPartName "CON2.Normal")
+      (LibraryName "D:\PF_ORCAD\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("OPTO ISOLATOR-A"
+      (FullPartName "OPTO ISOLATOR-A.Normal")
+      (LibraryName "D:\PF_ORCAD\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (LT1014
+      (FullPartName "LT1014.Normal")
+      (LibraryName "D:\STUDENT\TME\2131\MAXIM_GEORGIANA_BIANCA\BIANCA.OLB")
+      (DeviceIndex "0"))
+    (ATTiny2313
+      (FullPartName "ATTiny2313.Normal")
+      (LibraryName "D:\STUDENT\TME\2131\MAXIM_GEORGIANA_BIANCA\BIANCA.OLB")
+      (DeviceIndex "0"))
+    ("OPTO ISOLATOR"
+      (FullPartName "OPTO ISOLATOR.Normal")
+      (LibraryName "D:\PF_ORCAD\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (MAX485
+      (FullPartName "MAX485.Normal")
+      (LibraryName "D:\PF_ORCAD\CAPTURE\LIBRARY\LINEDRIVERRECEIVER.OLB")
+      (DeviceIndex "0"))
+    ("CAP POL"
+      (FullPartName "CAP POL.Normal")
+      (LibraryName "D:\PF_ORCAD\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\datalogger_deversor.dsn")
+      (Path "Design Resources" ".\datalogger_deversor.dsn" "SCHEMATIC1")
+      (Path "Design Resources" "Library")
+      (Path "Outputs")
+      (Select "Design Resources" ".\datalogger_deversor.dsn" "SCHEMATIC1"
+         "PAGE1"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 0 916 -8 -31 0 200 0 593"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 52 1354 52 538")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\BMAXI\DESKTOP\MAXIM_GEORGIANA_BIANCA\DATALOGGER_DEVERSOR.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1")))
+  (LastUsedLibraryBrowseDirectory "D:\Student\TME\2131\Maxim_Georgiana_Bianca"))

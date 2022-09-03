@@ -1,0 +1,112 @@
+
+Checking Pins and Pin Connections
+
+--------------------------------------------------
+Checking Schematic: Alimentare
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking for Unconnected Nets
+
+Checking Off-Page Connections
+
+Checking Pin to Port Connections
+
+Checking for Invalid References
+
+Checking for Duplicate References
+
+Reporting Off-Grid Objects
+
+Reporting Ports
+    Masa
+    MasaO
+    VCC
+    +Vali
+
+Reporting Off-Page Connections
+
+Reporting Globals
+
+Reporting Net Names
+    MASA
+    Alternate Name:  Masa
+    Alternate Name:  MasaO
+    VCC
+    +VALI
+    Alternate Name:  +Vali
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC1
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking for Unconnected Nets
+
+Checking Off-Page Connections
+
+Checking Pin to Port Connections
+
+Checking for Invalid References
+
+Checking for Duplicate References
+
+Reporting Off-Grid Objects
+
+Reporting Ports
+
+Reporting Off-Page Connections
+
+Reporting Globals
+    VCC
+    5Vi
+    GND
+    GND_SIGNAL
+    GND_FIELD SIGNAL
+    VCCA
+
+Reporting Net Names
+    N16003
+    N01040
+    N03665
+    N08282
+    N08672
+    N15681
+    N15707
+    N00837
+    A
+    B
+    N00999
+    N03371
+    N00933
+    N02582
+    N03230
+    GND
+    5VI
+    Alternate Name:  5Vi
+    12VI
+    Alternate Name:  12Vi
+    N03292
+    VCC
+    N03405
+    N04786
+    N05051
+    N04612
+    OCUPAT
+    N02817
+    N10350
+    INA2-
+    SEL TRESET
+    Alternate Name:  Sel Treset
+    DOUT
+    N10295
+    INA2+
+    N11234
+    GND_FIELD SIGNAL
+    Alternate Name:  GND_SIGNAL
+    DIN
+    INA1-
+    CSC
+    INA1+
+    SCLK
+    VCCA
